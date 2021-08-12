@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Card Quiz and reviews</string>
+    <string name="poker_compendium">Poker compendium</string>
+    <string name="show_more">show more</string>
+    <string name="submit_review_btn">Submit Review</string>
+    <string name="tell_others_what_you_think_about_this_poker_room_TINT">Tell others what you think about this poker room</string>
+    <string name="write_a_review">WRITE A REVIEW</string>
+    <string name="rating_required">rating required</string>
+    <string name="recent_reviews">Recent Reviews</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="please_enter_your_name">Please enter your name</string>
+    <string name="bButton">B</string>
+    <string name="bothButton">both</string>
+    <string name="aButton">A</string>
+    <string name="questionQuiz">Who Has the best hand?</string>
+    <string name="mainMenuButton">main menu</string>
+    <string name="nextButton">next</string>
+</resources>

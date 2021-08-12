@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF5823</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF5823</color>
+    <color name="teal_700">#FF5823</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="blue_200">#131849</color>
+    <color name="blue_1000">#0468DD</color>
+    <color name="green">#01C801</color>
+    <color name="backgroundProgressBar">#FFA89F</color>
+    <color name="progress_ProgressBar">#87AFE3</color>
+    <color name="progressStars">#ffdd00</color>
+</resources>

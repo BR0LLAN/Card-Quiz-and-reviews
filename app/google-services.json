@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "966797398066",
+    "project_id": "guides-and-reviews",
+    "storage_bucket": "guides-and-reviews.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:966797398066:android:d10e6bb8732b6b70ca2c2b",
+        "android_client_info": {
+          "package_name": "com.testcardquiz.reviews"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "966797398066-oi7q72ko0se60q249aad7rk97s8nvne0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC9aOA37O3dqHWE-hekpAVVfx-IRzceYOM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "966797398066-oi7q72ko0se60q249aad7rk97s8nvne0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
